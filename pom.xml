@@ -112,7 +112,7 @@
 	<dependency>
 		<groupId>org.jacoco</groupId>
 		<artifactId>jacoco-maven-plugin</artifactId>
-        <version>0.6.5.201403032054</version>
+        <version>${jacoco.version}</version>
 	</dependency>
   </dependencies>
 
